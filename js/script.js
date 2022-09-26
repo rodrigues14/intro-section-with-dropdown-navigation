@@ -32,9 +32,9 @@ function toggleMenu() {
 
     let iconMenu = btnMobile.querySelector("img");
     if (menu.classList.contains("active")) {
-        iconMenu.setAttribute("src", "/images/close-menu.svg");
+        iconMenu.setAttribute("src", "./images/close-menu.svg");
     } else {
-        iconMenu.setAttribute("src", "/images/menu.svg");
+        iconMenu.setAttribute("src", "./images/menu.svg");
     }
 
 }
