@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live site URL]()
+- Live Site URL: [Live site URL](https://rodrigues14.github.io/intro-section-with-dropdown-navigation/)
 
 ### Built with
 
