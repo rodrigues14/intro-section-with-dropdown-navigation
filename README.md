@@ -15,8 +15,9 @@ Users should be able to:
 
 ![preview](./images/project-result.png)  
 
-<div align= "center" >
+### Screenshot mobile
 
+<div align= "center" >
   <img src="./images/preview-mobile.png" alt="Imagem do projeto mobile" width="230"/> <img src="./images/preview-mobile-menu.png" alt="Imagem do projeto mobile" width="230"/>  
 </div>
 
